@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"komoi1batt","characterIndex":0,"characterName":"komoi1","classId":1,"equips":[0,0,0,2],"faceIndex":1,"faceName":"Actor2","traits":[{"code":23,"dataId":5,"value":0},{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Komoi","nickname":"","note":"<Menu Portrait: Base Komoi>\n<Menu Portrait Offset Y: +200>\n","profile":""}
+]

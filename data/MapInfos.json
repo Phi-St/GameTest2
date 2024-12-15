@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Overworld Town","order":1,"parentId":0,"scrollX":2780,"scrollY":1542,"quick":false},
+{"id":2,"expanded":true,"name":"Floor 0","order":2,"parentId":1,"scrollX":2152,"scrollY":810,"quick":false},
+{"id":3,"expanded":false,"name":"Slum","order":6,"parentId":1,"scrollX":1946.3999999999999,"scrollY":1078.8,"quick":false},
+{"id":4,"expanded":true,"name":"Floor 1","order":3,"parentId":2,"scrollX":1508.7272727272727,"scrollY":490.3636363636364,"quick":false},
+{"id":5,"expanded":true,"name":"All Monsters","order":8,"parentId":6,"scrollX":884.7272727272727,"scrollY":651.8181818181819,"quick":false},
+{"id":6,"expanded":true,"name":"Switch Activate","order":7,"parentId":0,"scrollX":816,"scrollY":624,"quick":false},
+{"id":7,"expanded":false,"name":"Arena","order":9,"parentId":6,"scrollX":1081.3333333333333,"scrollY":610,"quick":false},
+{"id":8,"expanded":true,"name":"Unique 1","order":4,"parentId":4,"scrollX":1216.5,"scrollY":818.25,"quick":false},
+{"id":9,"expanded":false,"name":"Unique 2","order":5,"parentId":8,"scrollX":1216.5,"scrollY":686.25,"quick":false}
+]
